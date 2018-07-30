@@ -24,7 +24,8 @@ import random
 import requests
 
 
-ENTRY_POINT = 'eve-demo.herokuapp.com'
+#ENTRY_POINT = 'eve-demo.herokuapp.com'
+ENTRY_POINT = 'localhost:5000'
 
 
 def post_people():
